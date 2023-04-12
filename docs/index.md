@@ -1,7 +1,6 @@
 
 ## 产品截图
-![Image](https://github.com/codelishaohui/cashflow-privacy/raw/matrixclock/docs/screenshot1.png)
-![Image](https://github.com/codelishaohui/cashflow-privacy/raw/matrixclock/docs/screenshot2.png)
+![Image](https://github.com/lishaofeng0903/locationlnk-privacy/blob/main/docs/screenshot1.jpeg)
 
 ### 使用条款 / Terms of Service
 感谢您使用 Location Lnk App，在购买前，请阅读以下条款：
